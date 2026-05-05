@@ -1,0 +1,1 @@
+# Dual-Mobile-Sink-Quadrant-Sector-Adaptive-model-for-wireless-sensor-network
